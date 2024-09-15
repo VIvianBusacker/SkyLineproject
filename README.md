@@ -17,7 +17,7 @@ Skyline is designed to be user-friendly for all ages and incorporates modern fea
 
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
+<br><br><br>
 It is a [Next.js](https://nextjs.org/) project built on React and TailwindCSS.
 
 ## Getting Started
